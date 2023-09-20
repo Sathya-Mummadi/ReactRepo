@@ -39,4 +39,4 @@ import Simplelist from './Funccomp/Simplelist';
    );
  }
 
-export default App;
+export default App
