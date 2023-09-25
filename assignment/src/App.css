@@ -7,6 +7,9 @@
 
 .para{
   color: blue;
+  border-style: double;
+  border-color: blue;
+
 }
 .holepage{
   background-color: aqua;
